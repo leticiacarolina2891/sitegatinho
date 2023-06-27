@@ -6,7 +6,8 @@ body{
     text-align: center;
     margin: 5em 0 0 0;
     color: rgb(107, 3, 64);
-    font-style: unset;
+    font-style: oblique;
+    font-size: 30px;
 }
 
 .titulo2{
@@ -19,16 +20,30 @@ body{
     color: palevioletred;
     font-style: oblique;
     margin: 4em 0 8em 34em;
+    font-size: 20px;
 }
 
 .paragrafo2{
     color: palevioletred;
     font-style: oblique;
     margin: 2em 0 8em 34em;
+    font-size: 20px;
 }
 
 .imagemgatinho{
     position: absolute;
-    left: 5%;
-    top: 25%;
+    left: 4%;
+    top: 35%;
+}
+
+.desenhogatinho{
+    text-align: center;
+    margin: 5em 0 0 0;
+    color: rgb(162, 12, 99);
+    font-style: oblique;
+    font-size: 30px;
+}
+.videogatinho{
+    position: absolute;
+    left: 30%;
 }
